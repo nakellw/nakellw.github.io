@@ -97,11 +97,14 @@ body{
 }
 
 .name{
-    width: 200px;
+    width: 920px;
+    height: 20px;
+    
 }
 
 .email{
-    width: 200px;
+    width: 920px;
+    height: 20px;
 
 }
 
@@ -114,63 +117,63 @@ hr.style-four {
 .img1{
 position: relative;
 float: left;
-margin-right: 20px;
+margin-right: 25px;
 
 
 }
 
 .commun{
-    height:100px;
-    width:100px;
+    height:150px;
+    width:200px;
 }
 
 .img2{
     
     position: relative;
     float: left;
-    margin-right: 645px;
+    margin-right: 400px;
 
 }
 .Bulls{
-    height: 100px;
-    width:100px;
+    height: 150px;
+    width:200px;
 }
 
 .img3{
    
   position: relative;
   float: left;
-    margin-top: 20px;
-    margin-right: 20px;
+    margin-top: 25px;
+    margin-right: 25px;
 
 }
 .NBA{
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 200px;
 }
 
 .img4{
    position: relative;
    float: left;
-   margin-top: 20px;
-   margin-right: 645px;
+   margin-top: 25px;
+   margin-right: 400px;
 }
 .NFL{
-    height: 100px;
-    width:100px;
+    height: 150px;
+    width:200px;
 
 }
 
 .img5{
   position: relative;
-   margin-top: 20px;
-   float: left;
-   overflow: hidden;
+   margin-top: 25px;
+   clear: both;
+   overflow:  ;
 }
 
 .Tech{
-    height: 100px;
-    width:100px;
+    height: 150px;
+    width:200px;
 }
 
 .banner{
@@ -180,5 +183,11 @@ margin-right: 20px;
     color: white;
     background-color: #4aaaa5;
     margin: auto;
-    width:100px
+    width:200px;
+    height: 30px;
+    font-size: 20px
+}
+
+form{
+    margin-left: 20px;
 }
