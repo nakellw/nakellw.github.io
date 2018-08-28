@@ -1,74 +1,110 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
+Updated Portfolio Page
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Preview
+Overview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
+Now that you've had some practice with HTML and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
+If you are opting out of career services, this is still a required assignment. Part of being a web developer means being a part of a community. Having a place to share your projects is necessary if you're applying for jobs, but is still critical on your journey as a developer.
 
-## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-creative/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-creative.svg)](https://www.npmjs.com/package/startbootstrap-creative)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-creative.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-creative)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-creative/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-creative)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-creative/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-creative?type=dev)
+Before you Begin
 
-## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/creative/)
-* Install via npm: `npm i startbootstrap-creative`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-creative)
 
-## Usage
+Pin some repos that you want to share
 
-### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+Navigate to your GitHub Profile
 
-### Advanced Usage
+Click "Customize your pinned repositories"
+Click the "Repositories you contribute to" checkbox (this will allow you to "pin" Project 1 even if you aren't the "owner")
+Click the checkboxes for your project and 2-3 homework assignments that you would like to share
+Make sure each of these projects is deployed and add a link to the deployed project in their README files
 
-After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-#### Gulp Tasks
 
-- `gulp` the default task that builds everything
-- `gulp dev` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
+Revisit your portfolio page
 
-You must have npm and Gulp installed globally on your machine in order to use these features.
 
-## Troubleshooting and Help
+Open up your old portfolio page
+Read through the rest of the homework requirements and decide whether you can update your existing portfolio page or if you want to start fresh now that you've had some more HTML/CSS practice (you may also want to change it to be a single page instead of multiple pages or you might even want to consider using a paid theme)
 
-Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.
 
-**[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
 
-## About
+Required: Update your Portfolio Site -- Employer Ready
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+To receive a passing grade on this assignment, you should meet the following
+content and design requirements. These are aligned with what you will need to be
+employer ready.
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+Content
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+Your updated site should have the following content:
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-## Copyright and License
+Your name
+Links to your GitHub profile & LinkedIn page as well as your email address
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+List of projects. For each project make sure you have the following:
+
+
+Project title
+Link to the deployed version
+Link to the code on GitHub
+
+
+
+
+
+Design
+
+The content of your portfolio page is a lot more important than the aesthetics. That said, there are a couple basic requirements your portfolio page should meet:
+
+
+Mobile-friendliness: you don't need advanced responsive styles, but you should ensure that your portfolio page is still readable on different screen sizes
+Readability: make sure the font size is large enough to read, and that the colors don't cause eye strain.
+
+
+
+Suggested: Update Portfolio -- Employer Competitive
+
+To receive an "A" on this assignment, you should also meet the following requirements
+to ensure your portfolio site will help you be employer competitive.
+
+
+Competitive Content
+
+
+At least 3 deployed projects
+
+External content:
+
+
+Update your LinkedIn with the projects you've worked on so far
+Update the README for each project you linked to with a description of the problem,
+how you solved it, and some information about your technical approach
+Suggested: refactor some of your code from earlier assignments to make them more readable
+
+
+
+
+
+Competitive Design
+
+Unfortunately, this is where it gets a little bit subjective. Your site should look
+"polished." Here are a few guidelines on what that means:
+
+
+Mobile-first design: you should be proud to pull out your phone and share
+your portfolio site with a friend, family member, or someone at a meetup.
+Polish: choose a color palette for your site so it doesn't just look like
+the default bootstrap theme or an unstyled HTML site.
+Images: add a meaningful screenshot for each of your projects
+
+
+If you want a slick-looking site, but don't feel good about your CSS skills,
+check out CV, Resume, and Portfolio site templates on ThemeForest
